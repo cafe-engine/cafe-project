@@ -1,0 +1,61 @@
+{
+	"folders":
+	[
+		
+		{
+			"name": "Cafe",
+			"path": "cafe"
+		},
+		{
+			"name": "Tea",
+			"path": "tea"
+		},
+		{
+			"name": "Coffee",
+			"path": "coffee"
+		},
+		{
+			"name": "Latte",
+			"path": "latte"
+		},
+		{
+			"name": "Mocha",
+			"path": "mocha"
+		},
+		{
+			"name": "Project",
+			"path": ".",
+			"folder_exclude_patterns": ["tea", "mocha", "latte", "cafe", "coffee"],
+			"file_exclude_patterns": ["*.sublime-project"]
+		},
+	],
+	"build_systems": [
+		{
+			"name": "Build",
+			"shell_cmd": "./build.sh cafe",
+			"working_dir": "${project_path}",
+			"variants": [
+				{
+					"name": "setup",
+					"shell_cmd": "./build.sh setup"
+				},
+				{
+					"name": "pull",
+					"shell_cmd": "./build.sh pull"
+				},
+				{
+					"name": "update Makefile",
+					"shell_cmd": "./build.sh update-mak"
+				},
+				{
+					"name": "run",
+					"shell_cmd": "./build.sh run"
+				},
+				{
+					"name": "clean",
+					"shell_cmd": "./build.sh clean"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,2493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"es",
+				"folder_exclude_patterns\tfolder key"
+			],
+			[
+				"la_",
+				"la_VirtualFS\tla_VirtualFS"
+			],
+			[
+				"file",
+				"file_exclude_patterns\tfolder key"
+			],
+			[
+				"folder",
+				"folder_exclude_patterns\tfolder key"
+			],
+			[
+				"SDL_RE",
+				"SDL_RENDERER_SOFTWARE\tSDL_RendererFlags SDL_RENDERER_SOFTWARE"
+			],
+			[
+				"SDL_REND",
+				"SDL_RENDERER_ACCELERATED\tSDL_RendererFlags SDL_RENDERER_ACCELERATED"
+			],
+			[
+				"SDL_RENDE",
+				"SDL_RENDERER_SOFTWARE\tSDL_RendererFlags SDL_RENDERER_SOFTWARE"
+			],
+			[
+				"fl",
+				"flags"
+			],
+			[
+				"SDL_INIT_",
+				"SDL_INIT_EVENTS\tSDL_INIT_EVENTS"
+			],
+			[
+				"SDL_RENDERER_",
+				"SDL_RENDERER_PRESENTVSYNC\tSDL_RendererFlags SDL_RENDERER_PRESENTVSYNC"
+			],
+			[
+				"SDL_TE",
+				"SDL_TEXTUREACCESS_TARGET\tSDL_TextureAccess SDL_TEXTUREACCESS_TARGET"
+			],
+			[
+				"for",
+				"pixel_formats\tint [7] pixel_formats"
+			],
+			[
+				"TEA_PIXEL",
+				"TEA_PIXELFORMAT_COUNT"
+			],
+			[
+				"pixel",
+				"pixel_formats\tint [7] pixel_formats"
+			],
+			[
+				"in",
+				"input\tstruct (anonymous) input"
+			],
+			[
+				"old",
+				"old_state\tUint8 [3] old_state"
+			],
+			[
+				"s",
+				"state\tUint8 [3] state"
+			],
+			[
+				"TEA_BUTTO",
+				"TEA_BUTTON_COUNT\tTEA_MOUSE_BUTTON TEA_BUTTON_COUNT"
+			],
+			[
+				"SDL_Getscanc",
+				"SDL_GetScancodeFromName\tSDL_Scancode SDL_GetScancodeFromName(const char *name)"
+			],
+			[
+				"Uin",
+				"Uint32\tUint32"
+			],
+			[
+				"te_push",
+				"tea_push_canvas\tvoid tea_push_canvas(te_Canvas canvas)"
+			],
+			[
+				"SDL_TEXTUREAC",
+				"SDL_TEXTUREACCESS_TARGET\tSDL_TextureAccess SDL_TEXTUREACCESS_TARGET"
+			],
+			[
+				"Tex",
+				"textures\tTexture *[64] textures"
+			],
+			[
+				"SDL_TEXTUREACCESS_ST",
+				"SDL_TEXTUREACCESS_STREAMING\tSDL_TextureAccess SDL_TEXTUREACCESS_STREAMING"
+			],
+			[
+				"pix",
+				"pixel_format"
+			],
+			[
+				"te_T",
+				"te_Texture\tte_Texture"
+			],
+			[
+				"SDL_",
+				"SDL_TEXTUREACCESS_STATIC"
+			],
+			[
+				"SDL_T",
+				"SDL_TEXTUREACCESS_STREAMING"
+			],
+			[
+				"text",
+				"textures\tTexture *[64] textures"
+			],
+			[
+				"TEA_DRAW_TE",
+				"TEA_DRAW_TEXTURE_EX\tTEA_COMMAND_ TEA_DRAW_TEXTURE_EX"
+			],
+			[
+				"tea_render_te",
+				"tea_render_texture_ex\tvoid tea_render_texture_ex(Tea *tea, te_Texture *tex, te_Rect *dest, te_Rect *src, float angle, te_Point origin)"
+			],
+			[
+				"te_Rende",
+				"te_RenderFlip\tte_RenderFlip"
+			],
+			[
+				"te_Rend",
+				"te_RenderFlip\tte_RenderFlip"
+			],
+			[
+				"SDL_RenderCop",
+				"SDL_RenderCopyEx\tint SDL_RenderCopyEx(SDL_Renderer *renderer, SDL_Texture *texture, const SDL_Rect *srcrect, const SDL_Rect *dstrect, const double angle, const SDL_Point *center, const SDL_RendererFlip flip)"
+			],
+			[
+				"SDL_Pixel",
+				"SDL_PIXELFORMAT_RGBA8888"
+			],
+			[
+				"tea_fon",
+				"tea_font_load\tte_Font * tea_font_load(const char *filename, int font_size)"
+			],
+			[
+				"stbtt_GetCodepointBitma",
+				"stbtt_GetCodepointBitmapBox\tvoid stbtt_GetCodepointBitmapBox(const stbtt_fontinfo *font, int codepoint, float scale_x, float scale_y, int *ix0, int *iy0, int *ix1, int *iy1)"
+			],
+			[
+				"tex",
+				"texture\tstruct (anonymous) texture"
+			],
+			[
+				"SDL_RenderDrawCol",
+				"SDL_SetRenderDrawColor\tint SDL_SetRenderDrawColor(SDL_Renderer *renderer, Uint8 r, Uint8 g, Uint8 b, Uint8 a)"
+			],
+			[
+				"te_Co",
+				"te_Color\tte_Color"
+			],
+			[
+				"SDL_CreateTe",
+				"SDL_CreateTextureFromSurface\tSDL_Texture * SDL_CreateTextureFromSurface(SDL_Renderer *renderer, SDL_Surface *surface)"
+			],
+			[
+				"format",
+				"pixel_format\tUint32 pixel_format"
+			],
+			[
+				"SDL_PIXELFORMAT_RGBA",
+				"SDL_PIXELFORMAT_RGBA32\tSDL_PixelFormatEnum SDL_PIXELFORMAT_RGBA32"
+			],
+			[
+				"STBI_rgb",
+				"STBI_rgb_alpha\tenum <anonymous> STBI_rgb_alpha"
+			],
+			[
+				"SDL_Surfa",
+				"SDL_CreateRGBSurfaceFrom\tSDL_Surface * SDL_CreateRGBSurfaceFrom(void *pixels, int width, int height, int depth, int pitch, Uint32 Rmask, Uint32 Gmask, Uint32 Bmask, Uint32 Amask)"
+			],
+			[
+				"tea_po",
+				"tea_point\ttea_point(x, y)"
+			],
+			[
+				"tea_render_trina",
+				"tea_render_triangle_fill"
+			],
+			[
+				"invs",
+				"invslope0\tfloat invslope0"
+			],
+			[
+				"cux",
+				"curx1"
+			],
+			[
+				"_c",
+				"_ctx"
+			],
+			[
+				"tea_render_tr",
+				"tea_render_triangle_line\tvoid tea_render_triangle_line(Tea *t, float *p0, float *p1, float *p2)"
+			],
+			[
+				"coffee_table",
+				"coffee_table_t\tcoffee_table_t"
+			],
+			[
+				"coffee",
+				"coffee_t"
+			],
+			[
+				"act",
+				"active_plugins\tcoffee_t * active_plugins"
+			],
+			[
+				"CHEKC",
+				"CHECK_UDATA\tCHECK_UDATA(coffee, c_name)"
+			],
+			[
+				"coffee_",
+				"coffee_t\tcoffee_t"
+			],
+			[
+				"CHECK",
+				"CHECK_UDATA\tCHECK_UDATA(coffee, c_name)"
+			],
+			[
+				"resources",
+				"resources/tileset.h\t/home/canoi/Documentos/Projects/tinycoffee/include/coffee"
+			],
+			[
+				"obj",
+				"obj_fn\tobj_fn"
+			],
+			[
+				"coffee_val",
+				"coffee_valve_t\tcoffee_valve_t"
+			],
+			[
+				"tico_coffee_draw",
+				"tico_coffee_draw_folder"
+			],
+			[
+				"ac",
+				"active_plugins\tcoffee_t * active_plugins"
+			],
+			[
+				"plugin",
+				"pluginf\tcm_object_t * pluginf"
+			],
+			[
+				"CM_TRA",
+				"CM_TRACELOG\tCM_TRACELOG(message...)"
+			],
+			[
+				"tico_coffe",
+				"tico_coffee_editor_update"
+			],
+			[
+				"post",
+				"post_draw\tcm_function post_draw"
+			],
+			[
+				"pre",
+				"pre_draw\tcm_function pre_draw"
+			],
+			[
+				"cm_get",
+				"cm_get_object\tcm_object_t * cm_get_object(const char *name)"
+			],
+			[
+				"cm_objec",
+				"cm_object_t\tcm_object_t"
+			],
+			[
+				"cm_object_",
+				"cm_object_t\tcm_object_t"
+			],
+			[
+				"tc_Obje",
+				"tc_ObjectWidget"
+			],
+			[
+				"panel",
+				"panel.h\t/home/canoi/Documentos/Projects/tinycoffee/include/plugins/editor/widgets"
+			],
+			[
+				"tc_",
+				"tc_ObjectWidget\ttc_ObjectWidget"
+			],
+			[
+				"EDITOR_MEV",
+				"EDITOR_META_V_MIN\tEDITOR_META_V_MIN"
+			],
+			[
+				"EDITOR_",
+				"EDITOR_META_SPEED\tEDITOR_META_SPEED"
+			],
+			[
+				"ch",
+				"child\tcm_object_t * child"
+			],
+			[
+				"TRAC",
+				"TRACELOG\tTRACELOG(message...)"
+			],
+			[
+				"TRA",
+				"TRACELOG\tTRACELOG(message...)"
+			],
+			[
+				"cm_obje",
+				"cm_object_t\tcm_object_t"
+			],
+			[
+				"cm_object",
+				"cm_object_t\tcm_object_t"
+			],
+			[
+				"r",
+				"root\tcm_object_t * root"
+			],
+			[
+				"re",
+				"read_file\tconst char *(*)(const char *, const char *) read_file"
+			],
+			[
+				"JSON_",
+				"JSON_VEC2\tJSON_VEC2"
+			],
+			[
+				"JSON_V",
+				"JSON_VEC4\tJSON_VEC4"
+			],
+			[
+				"json_vec",
+				"json_vec2_t\tjson_vec2_t"
+			],
+			[
+				"tc_Vec",
+				"tc_Vec2\ttc_Vec2"
+			],
+			[
+				"upd",
+				"updatef\ttc_Field * updatef"
+			],
+			[
+				"uer",
+				"user_data\tvoid * user_data"
+			],
+			[
+				"tc_Fiel",
+				"tc_Field\ttc_Field"
+			],
+			[
+				"defa",
+				"default_font\ttc_Font default_font"
+			],
+			[
+				"tico_font_get",
+				"tico_font_get_text_width\tint tico_font_get_text_width(tc_Font font, const char *text, int len)"
+			],
+			[
+				"ImFont_Add",
+				"ImFontAtlas_AddFontFromMemoryTTF\tImFont * ImFontAtlas_AddFontFromMemoryTTF(ImFontAtlas *self, void *font_data, int font_size, float size_pixels, const ImFontConfig *font_cfg, const ImWchar *glyph_ranges)"
+			],
+			[
+				"ImFontAtlas_AddFont",
+				"ImFontAtlas_AddFontFromMemoryTTF\tImFont * ImFontAtlas_AddFontFromMemoryTTF(ImFontAtlas *self, void *font_data, int font_size, float size_pixels, const ImFontConfig *font_cfg, const ImWchar *glyph_ranges)"
+			],
+			[
+				"igPushSt",
+				"igPushStyleVarVec2\tvoid igPushStyleVarVec2(ImGuiStyleVar idx, const ImVec2 val)"
+			],
+			[
+				"ImDrawCornerFlags_BO",
+				"ImDrawCornerFlags_BotRight\tImDrawCornerFlags_ ImDrawCornerFlags_BotRight"
+			],
+			[
+				"ImGuiTreeNode",
+				"ImGuiTreeNodeFlags_Framed\tImGuiTreeNodeFlags_ ImGuiTreeNodeFlags_Framed"
+			],
+			[
+				"ImDrawAll",
+				"ImDrawCornerFlags_All\tImDrawCornerFlags_ ImDrawCornerFlags_All"
+			],
+			[
+				"color",
+				"colorf\ttc_Field * colorf"
+			],
+			[
+				"ImDrawCor",
+				"ImDrawCornerFlags_All\tImDrawCornerFlags_ ImDrawCornerFlags_All"
+			],
+			[
+				"tico_font_e",
+				"tico_font_get_text_width\tint tico_font_get_text_width(tc_Font font, const char *text, int len)"
+			],
+			[
+				"ImDrawList_AddRec",
+				"ImDrawList_AddRectFilled\tvoid ImDrawList_AddRectFilled(ImDrawList *self, const ImVec2 p_min, const ImVec2 p_max, ImU32 col, float rounding, ImDrawCornerFlags rounding_corners)"
+			],
+			[
+				"igColorEd",
+				"igColorEdit4\tbool igColorEdit4(const char *label, float *col, ImGuiColorEditFlags flags)"
+			],
+			[
+				"igGetDrawLi",
+				"igGetWindowDrawList\tImDrawList * igGetWindowDrawList()"
+			],
+			[
+				"ImTreeNode",
+				"ImGuiTreeNodeFlags_FramePadding\tImGuiTreeNodeFlags_ ImGuiTreeNodeFlags_FramePadding"
+			],
+			[
+				"igGetRectM",
+				"igGetItemRectMin\tvoid igGetItemRectMin(ImVec2 *pOut)"
+			],
+			[
+				"cJSON_GetA",
+				"cJSON_GetArraySize\tint cJSON_GetArraySize(const cJSON *array)"
+			],
+			[
+				"tic_prin",
+				"tico_vec4_print\tvoid tico_vec4_print(const tc_Vec4 v)"
+			],
+			[
+				"igColor",
+				"igColorEdit4\tbool igColorEdit4(const char *label, float *col, ImGuiColorEditFlags flags)"
+			],
+			[
+				"igColorConvert",
+				"igColorConvertFloat4ToU32\tImU32 igColorConvertFloat4ToU32(const ImVec4 in)"
+			],
+			[
+				"igConvert",
+				"igColorConvertFloat4ToU32\tImU32 igColorConvertFloat4ToU32(const ImVec4 in)"
+			],
+			[
+				"igCollapsing",
+				"igCollapsingHeaderTreeNodeFlags\tbool igCollapsingHeaderTreeNodeFlags(const char *label, ImGuiTreeNodeFlags flags)"
+			],
+			[
+				"igTreeNode",
+				"igTreeNodeStr\tbool igTreeNodeStr(const char *label)"
+			],
+			[
+				"igGetContent",
+				"igGetContentRegionAvail\tvoid igGetContentRegionAvail(ImVec2 *pOut)"
+			],
+			[
+				"igEnd",
+				"igEndChild\tvoid igEndChild()"
+			],
+			[
+				"field",
+				"field_type\ttc_FieldType * field_type"
+			],
+			[
+				"tico_seria",
+				"tico_serialization_get_type\ttc_FieldType * tico_serialization_get_type(tc_Serialization *serial, const char *typename)"
+			],
+			[
+				"tc_FI",
+				"tc_FieldType\ttc_FieldType"
+			],
+			[
+				"tico_field_circle_",
+				"tico_field_circle_from_json\ttc_Field * tico_field_circle_from_json(cJSON *const json)"
+			],
+			[
+				"ptr",
+				"ptr_type\ttc_FieldType * ptr_type"
+			],
+			[
+				"tc_Field",
+				"tc_FieldType"
+			],
+			[
+				"tico_field_string_",
+				"tico_field_string_from_json\ttc_Field * tico_field_string_from_json(cJSON *const json)"
+			],
+			[
+				"TIC_FIELD_TYPE_VEC",
+				"TIC_FIELD_TYPE_VEC2\tTIC_FIELD_TYPE_ TIC_FIELD_TYPE_VEC2"
+			],
+			[
+				"TIC_FIELD_N",
+				"TIC_FIELD_TYPE_NUMBER\tTIC_FIELD_TYPE_ TIC_FIELD_TYPE_NUMBER"
+			],
+			[
+				"imgu",
+				"imgui\tImGuiField imgui"
+			],
+			[
+				"c",
+				"child\ttc_Field * child"
+			],
+			[
+				"tico_field_set",
+				"tico_field_set_circle"
+			],
+			[
+				"igDragF",
+				"igDragFloat\tbool igDragFloat(const char *label, float *v, float v_speed, float v_min, float v_max, const char *format, ImGuiSliderFlags flags)"
+			],
+			[
+				"igInputfloat",
+				"igInputFloat2\tbool igInputFloat2(const char *label, float *v, const char *format, ImGuiInputTextFlags flags)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "build.sh",
+			"settings":
+			{
+				"buffer_size": 1100,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 3120,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cafe-project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 947,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build",
+					"setup"
+				],
+				[
+					"Build",
+					"pull"
+				],
+				[
+					"Build",
+					"update Makefile"
+				],
+				[
+					"Build",
+					"run"
+				],
+				[
+					"Build",
+					"clean"
+				]
+			],
+			[
+				"Build",
+				"update Makefile"
+			]
+		],
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build",
+					"update Makefile"
+				]
+			],
+			[
+				"Build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build",
+					"update Makefile"
+				],
+				[
+					"Build",
+					"run"
+				],
+				[
+					"Build",
+					"clean"
+				]
+			],
+			[
+				"Build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Make",
+					""
+				],
+				[
+					"Make",
+					"Clean"
+				],
+				[
+					"Make",
+					"Linux"
+				],
+				[
+					"Make",
+					"Windows"
+				],
+				[
+					"Make",
+					"Linux Release"
+				],
+				[
+					"Make",
+					"Windows Release"
+				],
+				[
+					"Make",
+					"Run"
+				],
+				[
+					"Make",
+					"Release"
+				]
+			],
+			[
+				"Make",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Make",
+					""
+				],
+				[
+					"Make",
+					"Linux"
+				],
+				[
+					"Make",
+					"Windows"
+				],
+				[
+					"Make",
+					"Linux Release"
+				],
+				[
+					"Make",
+					"Windows Release"
+				]
+			],
+			[
+				"Make",
+				"Linux"
+			]
+		],
+		[
+			[
+				[
+					"Make",
+					""
+				],
+				[
+					"Make",
+					"Linux"
+				],
+				[
+					"Make",
+					"Windows"
+				],
+				[
+					"Make",
+					"Linux Release"
+				],
+				[
+					"Make",
+					"Windows Release"
+				],
+				[
+					"Make",
+					"Run"
+				]
+			],
+			[
+				"Make",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Make",
+					""
+				],
+				[
+					"Make",
+					"Linux"
+				],
+				[
+					"Make",
+					"Windows"
+				],
+				[
+					"Make",
+					"Linux Release"
+				],
+				[
+					"Make",
+					"Windows Release"
+				],
+				[
+					"Make",
+					"Run"
+				],
+				[
+					"Make",
+					"Clean"
+				]
+			],
+			[
+				"Make",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Make",
+					""
+				],
+				[
+					"Make",
+					"Linux"
+				],
+				[
+					"Make",
+					"Windows"
+				],
+				[
+					"Make",
+					"Linux Release"
+				],
+				[
+					"Make",
+					"Windows Release"
+				],
+				[
+					"Make",
+					"Run"
+				],
+				[
+					"Make",
+					"Release"
+				]
+			],
+			[
+				"Make",
+				""
+			]
+		],
+		[
+			[
+				[
+					"build",
+					""
+				],
+				[
+					"build",
+					"run"
+				]
+			],
+			[
+				"build",
+				"run"
+			]
+		],
+		[
+			[
+				[
+					"make",
+					""
+				],
+				[
+					"make",
+					"run"
+				],
+				[
+					"make",
+					"tea"
+				]
+			],
+			[
+				"make",
+				"tea"
+			]
+		],
+		[
+			[
+				[
+					"tico (Linux)",
+					""
+				],
+				[
+					"tico (Linux)",
+					"clean"
+				],
+				[
+					"tico (Linux)",
+					"rebuild_cache"
+				],
+				[
+					"tico (Linux)",
+					"tico"
+				],
+				[
+					"tico (Linux)",
+					"main.o"
+				],
+				[
+					"tico (Linux)",
+					"main.i"
+				],
+				[
+					"tico (Linux)",
+					"main.s"
+				]
+			],
+			[
+				"tico (Linux)",
+				""
+			]
+		],
+		[
+			[
+				[
+					"tico (Linux)",
+					""
+				],
+				[
+					"tico (Linux)",
+					"clean"
+				],
+				[
+					"tico (Linux)",
+					"rebuild_cache"
+				],
+				[
+					"tico (Linux)",
+					"tico"
+				],
+				[
+					"tico (Linux)",
+					"main.o"
+				],
+				[
+					"tico (Linux)",
+					"main.i"
+				],
+				[
+					"tico (Linux)",
+					"main.s"
+				],
+				[
+					"tico (Linux)",
+					"src/graphics.o"
+				],
+				[
+					"tico (Linux)",
+					"src/graphics.i"
+				],
+				[
+					"tico (Linux)",
+					"src/graphics.s"
+				]
+			],
+			[
+				"tico (Linux)",
+				""
+			]
+		],
+		[
+			[
+				[
+					"tico (Linux)",
+					""
+				],
+				[
+					"tico (Linux)",
+					"clean"
+				],
+				[
+					"tico (Linux)",
+					"rebuild_cache"
+				],
+				[
+					"tico (Linux)",
+					"tico_lib"
+				],
+				[
+					"tico (Linux)",
+					"tico"
+				],
+				[
+					"tico (Linux)",
+					"gl3w"
+				],
+				[
+					"tico (Linux)",
+					"lua"
+				],
+				[
+					"tico (Linux)",
+					"glfw"
+				],
+				[
+					"tico (Linux)",
+					"cimgui"
+				],
+				[
+					"tico (Linux)",
+					"external/GL/gl3w.o"
+				],
+				[
+					"tico (Linux)",
+					"external/GL/gl3w.i"
+				],
+				[
+					"tico (Linux)",
+					"external/GL/gl3w.s"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/cimgui.o"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/cimgui.i"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/cimgui.s"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/examples/imgui_impl_glfw.o"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/examples/imgui_impl_glfw.i"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/examples/imgui_impl_glfw.s"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/examples/imgui_impl_opengl3.o"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/examples/imgui_impl_opengl3.i"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/examples/imgui_impl_opengl3.s"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui.o"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui.i"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui.s"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui_demo.o"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui_demo.i"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui_demo.s"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui_draw.o"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui_draw.i"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui_draw.s"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui_widgets.o"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui_widgets.i"
+				],
+				[
+					"tico (Linux)",
+					"external/cimgui/imgui/imgui_widgets.s"
+				],
+				[
+					"tico (Linux)",
+					"external/cjson/cJSON.o"
+				],
+				[
+					"tico (Linux)",
+					"external/cjson/cJSON.i"
+				],
+				[
+					"tico (Linux)",
+					"external/cjson/cJSON.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/context.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/context.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/context.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/egl_context.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/egl_context.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/egl_context.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/glx_context.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/glx_context.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/glx_context.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/init.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/init.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/init.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/input.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/input.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/input.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/linux_joystick.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/linux_joystick.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/linux_joystick.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/monitor.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/monitor.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/monitor.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/osmesa_context.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/osmesa_context.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/osmesa_context.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/posix_thread.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/posix_thread.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/posix_thread.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/posix_time.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/posix_time.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/posix_time.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/vulkan.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/vulkan.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/vulkan.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/window.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/window.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/window.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/x11_init.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/x11_init.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/x11_init.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/x11_monitor.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/x11_monitor.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/x11_monitor.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/x11_window.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/x11_window.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/x11_window.s"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/xkb_unicode.o"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/xkb_unicode.i"
+				],
+				[
+					"tico (Linux)",
+					"external/glfw/src/xkb_unicode.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lapi.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lapi.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lapi.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lauxlib.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lauxlib.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lauxlib.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lbaselib.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lbaselib.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lbaselib.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lcode.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lcode.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lcode.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lcorolib.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lcorolib.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lcorolib.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lctype.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lctype.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lctype.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldblib.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldblib.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldblib.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldebug.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldebug.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldebug.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldo.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldo.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldo.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldump.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldump.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ldump.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lfunc.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lfunc.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lfunc.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lgc.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lgc.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lgc.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/linit.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/linit.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/linit.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/liolib.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/liolib.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/liolib.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/llex.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/llex.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/llex.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lmathlib.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lmathlib.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lmathlib.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lmem.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lmem.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lmem.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/loadlib.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/loadlib.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/loadlib.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lobject.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lobject.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lobject.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lopcodes.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lopcodes.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lopcodes.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/loslib.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/loslib.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/loslib.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lparser.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lparser.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lparser.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lstate.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lstate.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lstate.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lstring.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lstring.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lstring.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lstrlib.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lstrlib.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lstrlib.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ltable.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ltable.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ltable.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ltablib.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ltablib.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ltablib.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ltm.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ltm.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/ltm.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lua.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lua.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lua.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/luac.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/luac.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/luac.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lundump.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lundump.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lundump.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lutf8lib.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lutf8lib.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lutf8lib.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lvm.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lvm.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lvm.s"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lzio.o"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lzio.i"
+				],
+				[
+					"tico (Linux)",
+					"external/lua/src/lzio.s"
+				],
+				[
+					"tico (Linux)",
+					"external/map.o"
+				],
+				[
+					"tico (Linux)",
+					"external/map.i"
+				],
+				[
+					"tico (Linux)",
+					"external/map.s"
+				],
+				[
+					"tico (Linux)",
+					"external/vec.o"
+				],
+				[
+					"tico (Linux)",
+					"external/vec.i"
+				],
+				[
+					"tico (Linux)",
+					"external/vec.s"
+				],
+				[
+					"tico (Linux)",
+					"external/zip/src/zip.o"
+				],
+				[
+					"tico (Linux)",
+					"external/zip/src/zip.i"
+				],
+				[
+					"tico (Linux)",
+					"external/zip/src/zip.s"
+				],
+				[
+					"tico (Linux)",
+					"main.o"
+				],
+				[
+					"tico (Linux)",
+					"main.i"
+				],
+				[
+					"tico (Linux)",
+					"main.s"
+				],
+				[
+					"tico (Linux)",
+					"src/audio.o"
+				],
+				[
+					"tico (Linux)",
+					"src/audio.i"
+				],
+				[
+					"tico (Linux)",
+					"src/audio.s"
+				],
+				[
+					"tico (Linux)",
+					"src/core.o"
+				],
+				[
+					"tico (Linux)",
+					"src/core.i"
+				],
+				[
+					"tico (Linux)",
+					"src/core.s"
+				],
+				[
+					"tico (Linux)",
+					"src/engine.o"
+				],
+				[
+					"tico (Linux)",
+					"src/engine.i"
+				],
+				[
+					"tico (Linux)",
+					"src/engine.s"
+				],
+				[
+					"tico (Linux)",
+					"src/filesystem.o"
+				],
+				[
+					"tico (Linux)",
+					"src/filesystem.i"
+				],
+				[
+					"tico (Linux)",
+					"src/filesystem.s"
+				],
+				[
+					"tico (Linux)",
+					"src/graphics.o"
+				],
+				[
+					"tico (Linux)",
+					"src/graphics.i"
+				],
+				[
+					"tico (Linux)",
+					"src/graphics.s"
+				],
+				[
+					"tico (Linux)",
+					"src/input.o"
+				],
+				[
+					"tico (Linux)",
+					"src/input.i"
+				],
+				[
+					"tico (Linux)",
+					"src/input.s"
+				],
+				[
+					"tico (Linux)",
+					"src/json.o"
+				],
+				[
+					"tico (Linux)",
+					"src/json.i"
+				],
+				[
+					"tico (Linux)",
+					"src/json.s"
+				],
+				[
+					"tico (Linux)",
+					"src/plugin.o"
+				],
+				[
+					"tico (Linux)",
+					"src/plugin.i"
+				],
+				[
+					"tico (Linux)",
+					"src/plugin.s"
+				],
+				[
+					"tico (Linux)",
+					"src/render.o"
+				],
+				[
+					"tico (Linux)",
+					"src/render.i"
+				],
+				[
+					"tico (Linux)",
+					"src/render.s"
+				],
+				[
+					"tico (Linux)",
+					"src/tico_math.o"
+				],
+				[
+					"tico (Linux)",
+					"src/tico_math.i"
+				],
+				[
+					"tico (Linux)",
+					"src/tico_math.s"
+				],
+				[
+					"tico (Linux)",
+					"src/timer.o"
+				],
+				[
+					"tico (Linux)",
+					"src/timer.i"
+				],
+				[
+					"tico (Linux)",
+					"src/timer.s"
+				],
+				[
+					"tico (Linux)",
+					"src/window.o"
+				],
+				[
+					"tico (Linux)",
+					"src/window.i"
+				],
+				[
+					"tico (Linux)",
+					"src/window.s"
+				]
+			],
+			[
+				"tico (Linux)",
+				""
+			]
+		]
+	],
+	"build_varint": "update Makefile",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"cle",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"clear",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"c",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"cma",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"cmake c",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"clear cha",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"cmac",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"cmake cl",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"cmak",
+				"Set Syntax: CMake"
+			],
+			[
+				"sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/canoi/Documentos/Projects/cafe-project"
+	],
+	"file_history":
+	[
+		"/home/canoi/Documentos/Projects/cafe-project/cafe-project.sublime-project",
+		"/home/canoi/Documentos/Projects/cafe-project/mocha/Makefile",
+		"/home/canoi/Documentos/Projects/cafe-project/mocha/config.mak",
+		"/home/canoi/Documentos/Projects/cafe-project/latte/Makefile",
+		"/home/canoi/Documentos/Projects/cafe-project/latte/config.mak",
+		"/home/canoi/Documentos/Projects/cafe-project/coffee/Makefile",
+		"/home/canoi/Documentos/Projects/cafe-project/coffee/config.mak",
+		"/home/canoi/Documentos/Projects/cafe-project/tea/Makefile",
+		"/home/canoi/Documentos/Projects/cafe-project/tea/config.mak",
+		"/home/canoi/Documentos/Projects/cafe-project/cafe/Makefile",
+		"/home/canoi/Documentos/Projects/cafe-project/Makefile",
+		"/home/canoi/Documentos/Projects/cafe-project/cafe/config.mak",
+		"/home/canoi/Documentos/Projects/cafe/modules/latte/config.mak",
+		"/home/canoi/Documentos/Projects/cafe/src/cafe.h",
+		"/home/canoi/Documentos/Projects/cafe/modules/tea/Makefile1",
+		"/home/canoi/Documentos/Projects/cafe/modules/mocha/config.mak",
+		"/home/canoi/Documentos/Projects/cafe/modules/tea/config.mak",
+		"/home/canoi/Documentos/Projects/cafe/modules/latte/project/main.lua",
+		"/home/canoi/Documentos/Projects/cafe/.clang_complete",
+		"/usr/include/SDL2/SDL_pixels.h",
+		"/home/canoi/Documentos/Projects/cafe/modules/mocha/Makefile",
+		"/home/canoi/Documentos/Projects/cafe/modules/coffee/src/coffee.c",
+		"/home/canoi/Documentos/Projects/cafe/modules/coffee/coffee",
+		"/usr/include/SDL2/SDL_endian.h",
+		"/usr/include/x86_64-linux-gnu/bits/endianness.h",
+		"/home/canoi/Documentos/Projects/cafe-engine/tea/main.c",
+		"/home/canoi/Documentos/Projects/cafe-engine/tea/tea.sublime-project",
+		"/home/canoi/Documentos/Projects/cafe-engine/tea/.gitignore",
+		"/home/canoi/Documentos/Projects/tea/src/tea.h",
+		"/home/canoi/Documentos/Projects/tea/src/tea.c",
+		"/home/canoi/Documentos/Projects/tea/README.md",
+		"/home/canoi/Documentos/Projects/tea/main.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/external/lua/doc/lua.css",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/helpers/tilemap.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/coffee/editor/tileset.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/coffee.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/tclua.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/external/lua/src/lua.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/resources.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/coffee/editor.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/external/lua/src/lua.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/external/lua/src/lapi.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/external/lua/src/ldo.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/external/wren/test/core/object/nonclass_on_right.wren",
+		"/home/canoi/Documentos/Projects/tinycoffee/external/coffee-machine/external/json.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/table.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/assets/sprites/lizard.json",
+		"/home/canoi/Documentos/Projects/tinycoffee/external/lua/src/lparser.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/tico.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/serialization.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/resources/tilemap.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/resources/json.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/resources/tileset.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/resources/object.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/resources/image.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/src/serialization.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/src/json.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/editor/widgets/object.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/systems/spritesystem.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/editor/tilemap.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/editor/object.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/assets/objects/floor.json",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/project.tico",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/assets/objects/lizard.json",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/assets/tilesets/tileset.json",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/assets/objects/player.json",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/assets/objects/teste.json",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/assets/sprites/player.json",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/assets/tilemaps/tilemap.json",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/assets/tilesets/tileset-1.json",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/main.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/tico_imgui.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/editor.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/resources.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/engine.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/audio.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/timer.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/src/timer.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/src/render.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/render.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/engine.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/editor/panel.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/src/graphics.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/main.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/bin/project.tico",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/definitions.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/input.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/src/input.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/json.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/filesystem.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/src/filesystem.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/tico_math.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/tico_opengl.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/utils.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/graphics.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/src/tico_math.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/CMakeLists.txt",
+		"/home/canoi/Documentos/Projects/tinycoffee/tico.sublime-project",
+		"/home/canoi/Documentos/Projects/tinycoffee/glfw.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/window.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/src/core.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/src/audio.c",
+		"/home/canoi/Documentos/Projects/tinycoffee/external/miniaudio.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugin.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/editor/tileset.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/init.lua.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/window.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/math.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/timer.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/json.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/graphics.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/filesystem.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/init.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/bin/main.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/objects/lizard.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/include/plugins/lua/editor.h",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/systems/gravitysystem.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/components/gravity.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/systems/movesystem.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/systems/kinematicsystem.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/components/kinematic.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/components/hitbox.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/components/input.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/entities/player.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/systems/inputsystem.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/components/player.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/entities/lizard.lua",
+		"/home/canoi/Documentos/Projects/tinycoffee/examples/level/entities/floor.lua"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 148.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "build.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								424,
+								424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 34.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3001,
+								3001
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1340.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cafe-project.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PackageDev/Package/Sublime Text Project/Sublime Text Project.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 769.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 103.0
+	},
+	"output.exec":
+	{
+		"height": 207.0
+	},
+	"output.files_to_be_deleted":
+	{
+		"height": 115.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build",
+	"project": "cafe-project.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"coffee",
+				"src/coffee.c"
+			],
+			[
+				"editor",
+				"include/coffee/editor.h"
+			],
+			[
+				"lua.c",
+				"external/lua/src/lua.c"
+			],
+			[
+				"lua.h",
+				"external/lua/src/lua.h"
+			],
+			[
+				"coffee/res",
+				"include/coffee/resources.h"
+			],
+			[
+				"tclua",
+				"include/plugins/tclua.h"
+			],
+			[
+				"coffee/l",
+				"include/coffee/lua.h"
+			],
+			[
+				"resource",
+				"include/plugins/resources.h"
+			],
+			[
+				"plugin.c",
+				"src/plugin.c"
+			],
+			[
+				"coffee/ed",
+				"include/coffee/editor.h"
+			],
+			[
+				"core.",
+				"src/core.c"
+			],
+			[
+				"core.c",
+				"src/core.c"
+			],
+			[
+				"coffee.c",
+				"src/coffee.c"
+			],
+			[
+				"coffe",
+				"src/coffee.c"
+			],
+			[
+				"project",
+				"examples/level/project.tico"
+			],
+			[
+				"plugin",
+				"src/plugin.c"
+			],
+			[
+				"plugin.h",
+				"include/plugin.h"
+			],
+			[
+				"core",
+				"src/core.c"
+			],
+			[
+				"object_to",
+				"external/wren/test/core/object/nonclass_on_right.wren"
+			],
+			[
+				"coffe.h",
+				"include/coffee.h"
+			],
+			[
+				"tico",
+				"include/tico.h"
+			],
+			[
+				"edi",
+				"src/editor.c"
+			],
+			[
+				"edit",
+				"src/editor.c"
+			],
+			[
+				"micru",
+				"src/ui/microui.c"
+			],
+			[
+				"main.l",
+				"examples/level/main.lua"
+			],
+			[
+				"tico.",
+				"src/tico.h"
+			],
+			[
+				"main.la",
+				"examples/level/main.lua"
+			],
+			[
+				"main.lua",
+				"examples/level/main.lua"
+			],
+			[
+				"main",
+				"main.c"
+			],
+			[
+				"",
+				"tileset.json"
+			],
+			[
+				"tilest",
+				"tileset.json"
+			],
+			[
+				"m",
+				"main.c"
+			],
+			[
+				"t",
+				"tileset.json"
+			],
+			[
+				"ti",
+				"tileset.json"
+			],
+			[
+				"tile",
+				"tileset.json"
+			],
+			[
+				"til",
+				"tileset.json"
+			],
+			[
+				"tileset",
+				"tileset.json"
+			],
+			[
+				"micr",
+				"src/ui/microui.c"
+			],
+			[
+				"micro",
+				"src/ui/microui.c"
+			],
+			[
+				"tico.h",
+				"src/tico.h"
+			],
+			[
+				"render",
+				"src/render.c"
+			],
+			[
+				"co",
+				"src/core.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documentos/Projects/tinycoffee/tico.sublime-project"
+			],
+			[
+				"tico",
+				"~/Documentos/Projects/tinycoffee/tico.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 537.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

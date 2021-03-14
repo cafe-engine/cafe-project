@@ -1,0 +1,10 @@
+bin/
+obj/
+lib/
+src/*.o
+
+latte/
+tea/
+coffee/
+mocha/
+cafe/
